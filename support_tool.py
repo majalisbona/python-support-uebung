@@ -1,3 +1,5 @@
 print("Willkommen im IT-Support-Tool")
 print("Dieses Programm hilft bei einfachen Support-Aufgaben.")
 print("Python Tag 1")
+name = input("Bitte geben Sie Ihren Namen ein: ")
+print(f"Hallo {name}, willkommen im IT-Support-Tool.")
